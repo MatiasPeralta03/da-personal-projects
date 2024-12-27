@@ -26,9 +26,7 @@ Performance Optimization
 - Common Table Expressions (CTEs): Using CTEs for efficient data manipulation and analysis.
   
 ## Tableau
-- **Interactive Dashboard.**
-
-https://public.tableau.com/app/profile/matias.peralta1867/viz/online-sales-project1/Dashboard1
+-[**Interactive Dashboard.**](https://public.tableau.com/app/profile/matias.peralta1867/viz/online-sales-project1/Dashboard1)
 
 ## Dataset
 - [**Online Sales Dataset - Popular Marketplace Data**](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data)
