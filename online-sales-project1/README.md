@@ -7,26 +7,26 @@ This project focuses on cleaning and analyzing online sales data from the year 2
 ## Features
 
 ### MySQL
-1. Data Cleaning
-  - Removal of duplicate entries.
-  - Conversion of negative values to positive.
-  - Text normalization (standardizing formats).
-  - Adjusting data types for consistency.
+Data Cleaning
+- Removal of duplicate entries.
+- Conversion of negative values to positive.
+- Text normalization (standardizing formats).
+- Adjusting data types for consistency.
     
 Data Analysis
-
-Payment Methods: Examining sales distribution based on different payment methods.
-Sales Trends: Identifying seasonal patterns and sales fluctuations.
-Product Categories: Analyzing the performance of different product categories.
-Price Ranges: Understanding sales performance across various price ranges.
-Regional Analysis: Analyzing sales performance across different geographic regions.
+- Payment Methods: Examining sales distribution based on different payment methods.
+- Sales Trends: Identifying seasonal patterns and sales fluctuations.
+- Product Categories: Analyzing the performance of different product categories.
+- Price Ranges: Understanding sales performance across various price ranges.
+- Regional Analysis: Analyzing sales performance across different geographic regions.
+  
 Performance Optimization
-
-Views: Creating views for simplified data access.
-Indexes: Enhancing query performance.
-Common Table Expressions (CTEs): Using CTEs for efficient data manipulation and analysis.
+- Views: Creating views for simplified data access.
+- Indexes: Enhancing query performance.
+- Common Table Expressions (CTEs): Using CTEs for efficient data manipulation and analysis.
+  
 ## Tableau
-- **Interactive Dashboard**: Visualizing key metrics and sales trends through interactive charts. 
+- **Interactive Dashboard.**
 https://public.tableau.com/app/profile/matias.peralta1867/viz/online-sales-project1/Dashboard1
 
 ## Dataset
