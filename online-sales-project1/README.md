@@ -31,6 +31,5 @@ Performance Optimization
 https://public.tableau.com/app/profile/matias.peralta1867/viz/online-sales-project1/Dashboard1
 
 ## Dataset
-- **Online Sales Dataset - Popular Marketplace Data** from Kaggle.
-
-https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
+- [**Online Sales Dataset - Popular Marketplace Data**](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data)
+from Kaggle.
