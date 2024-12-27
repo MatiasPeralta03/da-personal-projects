@@ -14,5 +14,5 @@ This project aims to clean and analyze online sales data for the year 2024 and p
 https://public.tableau.com/app/profile/matias.peralta1867/viz/online-sales-project1/Dashboard1
 
 ## Dataset
-- **Online Sales Dataset - Popular Marketplace Data** from Kaggle
+- **Online Sales Dataset - Popular Marketplace Data** from Kaggle.
   https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
