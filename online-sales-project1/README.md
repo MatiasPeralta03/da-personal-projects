@@ -27,8 +27,8 @@ Indexes: Enhancing query performance.
 Common Table Expressions (CTEs): Using CTEs for efficient data manipulation and analysis.
 ## Tableau
 - **Interactive Dashboard**: Visualizing key metrics and sales trends through interactive charts. 
--- https://public.tableau.com/app/profile/matias.peralta1867/viz/online-sales-project1/Dashboard1
+https://public.tableau.com/app/profile/matias.peralta1867/viz/online-sales-project1/Dashboard1
 
 ## Dataset
 - **Online Sales Dataset - Popular Marketplace Data** from Kaggle.
--- https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
+https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
