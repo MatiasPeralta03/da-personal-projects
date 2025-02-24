@@ -1,24 +1,22 @@
-# Personal Projects Repository
+# Repositorio de Proyectos personales
 
-## About This Repository
-This repository showcases my personal journey in data analytics and programming. It serves as a portfolio of projects where I apply various tools and techniques to solve real-world problems and gain insights through data.
 
-## Repository Structure
-- **Personal Projects**: A collection of projects I have developed independently, each focusing on different aspects of data analytics and visualization.
-  - Each project is contained in its own folder, with a detailed README explaining the objectives, methodologies, and results.
+## Acerca de Este Repositorio
+Este repositorio muestra mi viaje personal en análisis de datos y programación. Sirve como un portafolio de proyectos donde aplico varias herramientas y técnicas para resolver problemas del mundo real y obtener insights a través de los datos.
+Dentro encontraran Una colección de proyectos que he desarrollado de manera independiente, cada uno enfocado en diferentes aspectos del análisis y visualización de datos.
 
-## Tools and Technologies
-This repository highlights the use of:
+
+## Herramientas y Tecnologías
 - **SQL**
 - **Tableau**
 - **Python**
 - **Excel/Google Sheets**
-- **R**
-  
-## Purpose
-The primary goal of this repository is to demonstrate my ability to:
-1. Analyze and clean data effectively.
-2. Derive actionable insights from datasets.
-3. Create impactful visualizations to communicate findings.
-4. Continuously learn and apply new tools in the field of data analytics.
+
+
+##  Propósito
+El objetivo principal de este repositorio es demostrar mi capacidad para:
+1. Analizar y limpiar datos de manera efectiva.
+2. Derivar conocimientos accionables de los conjuntos de datos.
+3. Crear visualizaciones impactantes para comunicar los hallazgos.
+4. Aprender y aplicar continuamente nuevas herramientas en el campo del análisis de datos.
 
