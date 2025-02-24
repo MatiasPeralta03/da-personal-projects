@@ -20,3 +20,7 @@ El objetivo principal de este repositorio es demostrar mi capacidad para:
 3. Crear visualizaciones impactantes para comunicar los hallazgos.
 4. Aprender y aplicar continuamente nuevas herramientas en el campo del análisis de datos.
 
+
+# Información importante
+Toda la información acerca de los proyectos la van a encontrar en mi portfolio: datascienceportfol.io/matiasperaltae
+
